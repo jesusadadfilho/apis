@@ -15,4 +15,4 @@ Api de um site de musica
 Api de um site de eventos
 
 # Pastebin
-Api de comentarios na web
+Api de textos na web
