@@ -1,14 +1,14 @@
 ### apis
-#apis utilizadas
-*blogger
-*last.fm
-*eventbrite
+# apis utilizadas
+* blogger
+* last.fm
+* eventbrite
 
-#blogger
+# Blogger
 Api de blogs da google
 
-#last.fm
+# Last.fm
 Api de um site de musica
 
-#eventbrite
+# Eventbrite
 Api de um site de eventos
