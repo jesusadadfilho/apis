@@ -3,7 +3,7 @@ import requests
 
 url = "http://ws.audioscrobbler.com"
 
-API_KEY  = "2125af9f85b21b9a206344272db07299"
+API_KEY  = ""
 
 album_search = "/2.0/?method=album.search&album=believe&api_key="+ API_KEY + "&format=json"
 Shared_secret = "41f0a7cb76a0d30ad0d128cc0e503cc8"

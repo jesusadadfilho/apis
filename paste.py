@@ -2,7 +2,7 @@ import requests
 
 API_ENDPOINT = "http://pastebin.com/api/api_post.php"
 
-API_KEY = "80515ca14a3cdbe7fa0c56cfb20cd250"
+API_KEY = ""
 
 # your source code here
 source_code = ''' 
